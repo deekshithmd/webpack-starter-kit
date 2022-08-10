@@ -10,5 +10,5 @@
 6. Asset/Image loader
 7. Automatic running on specified port after build
 8. Code splitting
-9. Automatic running of app after change in file
+9. Automatic running of app after change in file using hot reloading
 
