@@ -6,3 +6,8 @@ div{
     justify-content: center;
     align-items: center;
 }
+
+img{
+    width: 20rem;
+    height:10rem
+}
