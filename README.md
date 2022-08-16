@@ -1,4 +1,4 @@
-# webpack-starter-kit
+# Webpack Starter Kit
  javascript webpack starter kit
  
 ## Features added
