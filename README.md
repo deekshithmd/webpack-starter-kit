@@ -12,3 +12,31 @@
 8. Code splitting
 9. Automatic running of app after change in file using hot reloading
 
+## Running development server
+* Clone the repository on local machine 
+  ```
+  git clone https://github.com/deekshithmd/webpack-starter-kit.git
+  ```
+* Install dependencies using package installer 
+  ```
+  npm install
+  ```
+  
+* Run the app
+  ```
+  npm start
+  ```
+## Running production server
+* Clone the repository on local machine 
+  ```
+  git clone https://github.com/deekshithmd/webpack-starter-kit.git
+  ```
+* Install dependencies using package installer 
+  ```
+  npm install
+  ```
+  
+* Run the app
+  ```
+  npm run build
+  ```
