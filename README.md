@@ -11,12 +11,20 @@
 7. Automatic running on specified port after build
 8. Code splitting
 9. Automatic running of app after change in file using hot reloading
+10. Added degit
 
 ## Running development server
-* Clone the repository on local machine 
+* Clone the repository on local machine <br>
+
+  Using `Degit`
+  ```
+  degit https://github.com/deekshithmd/webpack-starter-kit.git#dev
+  ```
+  Using `git clone`
   ```
   git clone https://github.com/deekshithmd/webpack-starter-kit.git
   ```
+  
 * Install dependencies using package installer 
   ```
   npm install
@@ -27,10 +35,17 @@
   npm start
   ```
 ## Running production server
-* Clone the repository on local machine 
+* Clone the repository on local machine <br>
+
+  Using `Degit`
+  ```
+  degit https://github.com/deekshithmd/webpack-starter-kit.git#dev
+  ```
+  Using `git clone`
   ```
   git clone https://github.com/deekshithmd/webpack-starter-kit.git
   ```
+ 
 * Install dependencies using package installer 
   ```
   npm install
